@@ -1,4 +1,4 @@
-# \# Real-Time Chat App
+#  Real-Time Chat App
 
 # 
 
@@ -10,19 +10,19 @@
 
 # 
 
-# Real-time private messaging  
+Real-time private messaging  
 
-# Message delivery and read receipts  
+Message delivery and read receipts  
 
-# Friend request system  
+Friend request system  
 
-# Typing indicators  
+Typing indicators  
 
-# Responsive modern UI  
+Responsive modern UI  
 
-# Grouped messages by date  
+Grouped messages by date  
 
-# User login and signup  
+User login and signup  
 
 # 
 
@@ -30,7 +30,7 @@
 
 # 
 
-# \## Tech Stack
+# Tech Stack
 
 # 
 
