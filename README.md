@@ -6,7 +6,7 @@
 
 # 
 
-# \## Features
+#  Features
 
 # 
 
@@ -34,7 +34,7 @@ User login and signup
 
 # 
 
-# \### Frontend
+# Frontend
 
 # \- React  
 
@@ -44,7 +44,7 @@ User login and signup
 
 # 
 
-# \### Backend
+# Backend
 
 # \- Node.js / Express  
 
@@ -58,7 +58,7 @@ User login and signup
 
 # 
 
-# \## Details
+#  Details
 
 # 
 
@@ -80,17 +80,17 @@ User login and signup
 
 # 
 
-# \## 📸 Screenshots
+#  Screenshots
 
 # 
 
-# \### Login Screen
+#  Login Screen
 
 # <img src="./docs/screenshots/login.png" alt="Login screen" width="600"/>
 
 # 
 
-# \### Chat Screen
+#  Chat Screen
 
 # <img src="./docs/screenshots/chat.png" alt="Chat screen" width="600"/>
 
@@ -100,7 +100,7 @@ User login and signup
 
 # 
 
-# \## ⚙️ Installation \& Running Locally
+#  Installation \& Running Locally
 
 # 
 
