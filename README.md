@@ -62,17 +62,17 @@ User login and signup
 
 # 
 
-# \- \*\*Real-time Communication\*\*: Powered by WebSockets via Socket.IO  
+# Real-time Communication\*\*: Powered by WebSockets via Socket.IO  
 
-# \- \*\*Friend Requests\*\*: With live updates and automatic chat start after acceptance  
+# Friend Requests\*\*: With live updates and automatic chat start after acceptance  
 
-# \- \*\*Typing Indicators\*\*: Shows when a user is typing in real-time  
+# Typing Indicators\*\*: Shows when a user is typing in real-time  
 
-# \- \*\*Grouped Messages\*\*: Chat messages are grouped by "Today", "Yesterday", or full date  
+# Grouped Messages\*\*: Chat messages are grouped by "Today", "Yesterday", or full date  
 
-# \- \*\*Modern UI\*\*: WhatsApp-style, mobile-responsive design  
+# Modern UI\*\*: WhatsApp-style, mobile-responsive design  
 
-# \- \*\*Signup/Login\*\*: Secure authentication with JWT  
+# Signup/Login\*\*: Secure authentication with JWT  
 
 # 
 
@@ -104,7 +104,7 @@ User login and signup
 
 # 
 
-# 1\. \*\*Clone the repository\*\*
+# 1. Clone the repository
 
 # &nbsp;  ```bash
 
