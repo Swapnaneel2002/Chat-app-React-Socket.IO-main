@@ -24,33 +24,33 @@ Grouped messages by date
 
 User login and signup  
 
-# 
+ 
 
 # ---
 
-# 
+ 
 
 # Tech Stack
 
-# 
+ 
 
-# Frontend
+Frontend
 
-# \- React  
+React  
 
-# \- Axios  
+Axios  
 
-# \- Socket.IO Client  
+Socket.IO Client  
 
-# 
+ 
 
 # Backend
 
-# \- Node.js / Express  
+Node.js / Express  
 
-# \- Socket.IO  
+Socket.IO  
 
-# \- MongoDB with Mongoose  
+MongoDB with Mongoose  
 
 # 
 
@@ -60,21 +60,21 @@ User login and signup
 
 #  Details
 
-# 
+ 
 
-# Real-time Communication\*\*: Powered by WebSockets via Socket.IO  
+ Real-time Communication\*\*: Powered by WebSockets via Socket.IO  
 
-# Friend Requests\*\*: With live updates and automatic chat start after acceptance  
+ Friend Requests\*\*: With live updates and automatic chat start after acceptance  
 
-# Typing Indicators\*\*: Shows when a user is typing in real-time  
+ Typing Indicators\*\*: Shows when a user is typing in real-time  
 
-# Grouped Messages\*\*: Chat messages are grouped by "Today", "Yesterday", or full date  
+ Grouped Messages\*\*: Chat messages are grouped by "Today", "Yesterday", or full date  
 
-# Modern UI\*\*: WhatsApp-style, mobile-responsive design  
+ Modern UI\*\*: WhatsApp-style, mobile-responsive design  
 
-# Signup/Login\*\*: Secure authentication with JWT  
+ Signup/Login\*\*: Secure authentication with JWT  
 
-# 
+ 
 
 # ---
 
@@ -86,13 +86,13 @@ User login and signup
 
 #  Login Screen
 
-# <img src="./docs/screenshots/login.png" alt="Login screen" width="600"/>
+ <img src="./docs/screenshots/login.png" alt="Login screen" width="600"/>
 
 # 
 
 #  Chat Screen
 
-# <img src="./docs/screenshots/chat.png" alt="Chat screen" width="600"/>
+ <img src="./docs/screenshots/chat.png" alt="Chat screen" width="600"/>
 
 # 
 
@@ -106,11 +106,11 @@ User login and signup
 
 # 1. Clone the repository
 
-# &nbsp;  ```bash
+ &nbsp;  ```bash
 
-# &nbsp;  git clone https://github.com/Swapnaneel2002/Chat-app-React-Socket.IO-main.git
+ &nbsp;  git clone https://github.com/Swapnaneel2002/Chat-app-React-Socket.IO-main.git
 
-# &nbsp;  cd Chat-app-React-Socket.IO-main
+ &nbsp;  cd Chat-app-React-Socket.IO-main
 
 
 
